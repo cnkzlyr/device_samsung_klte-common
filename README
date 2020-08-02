@@ -1,8 +1,8 @@
-git clone -b evox https://github.com/cnkzlyr/device_samsung_klte device/samsung/klte
-git clone -b evox https://github.com/cnkzlyr/device_samsung_klte-common device/samsung/klte-common
-git clone -b evox https://github.com/cnkzlyr/device_samsung_msm8974-common device/samsung/msm8974-common
-git clone -b evox https://github.com/cnkzlyr/kernel_samsung_msm8974 kernel/samsung/msm8974
+git clone -b havoc https://github.com/cnkzlyr/device_samsung_klte device/samsung/klte
+git clone -b havoc https://github.com/cnkzlyr/device_samsung_klte-common device/samsung/klte-common
+git clone -b havoc https://github.com/cnkzlyr/device_samsung_msm8974-common device/samsung/msm8974-common
+git clone -b havoc https://github.com/cnkzlyr/kernel_samsung_msm8974 kernel/samsung/msm8974
 git clone -b lineage-17.1 https://github.com/LineageOS/android_device_samsung_qcom-common device/samsung/qcom-common
-git clone -b evox https://github.com/cnkzlyr/hardware_samsung hardware/samsung
-git clone -b evox https://github.com/cnkzlyr/proprietary_vendor_samsung vendor/samsung
+git clone -b havoc https://github.com/cnkzlyr/hardware_samsung hardware/samsung
+git clone -b havoc https://github.com/cnkzlyr/proprietary_vendor_samsung vendor/samsung
 # dont forget to take framework base commits before build!
