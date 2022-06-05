@@ -6,3 +6,9 @@ git clone -b lineage-17.1 https://github.com/LineageOS/android_device_samsung_qc
 git clone -b havoc https://github.com/cnkzlyr/hardware_samsung hardware/samsung
 git clone -b havoc https://github.com/cnkzlyr/proprietary_vendor_samsung vendor/samsung
 # dont forget to take framework base commits before build!
+
+git clone -b twelve https://github.com/cnkzlyr/device_xiaomi_miatoll device/xiaomi/miatoll
+git clone -b twelve https://github.com/cnkzlyr/device_xiaomi_sm6250-common device/xiaomi/sm6250-common
+git clone -b twelve-kcal https://github.com/cnkzlyr/kernel_xiaomi_sm6250 kernel/xiaomi/sm6250
+git clone -b twelve https://github.com/cnkzlyr/vendor_xiaomi_sm6250-common vendor/xiaomi/sm6250-common
+git clone -b twelve https://github.com/cnkzlyr/vendor_xiaomi_miatoll vendor/xiaomi/miatoll
